@@ -1,7 +1,7 @@
 apply plugin: 'java'
 apply plugin: 'application'
 
-mainClassName = "sumanyu.ex3"
+mainClassName = "sumanyu.Ex3"
 
 repositories {
    mavenCentral()

@@ -1,2 +1,2 @@
-# CS1530_Exercise3
-Gradle Exercise
+# GradleSampleBuild
+Gradle sample build for CS1530
